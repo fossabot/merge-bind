@@ -1,0 +1,13 @@
+{
+  "name": "merge-bind",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "sgtlambda",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
